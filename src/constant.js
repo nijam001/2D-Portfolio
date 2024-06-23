@@ -8,5 +8,5 @@ export const dialogueData = {
     sofa: `This is where I sit when I try to study while refering to youtube on my TV. I usually watch tech content. e.g. <a href="https://www.youtube.com/@freecodecamp">freeCodeCamp</a>, <a href="https://www.youtube.com/@unboxtherapy">Unbox Therapy</a>, etc.`,
     desk: `This is my desk. I often do my work here, On my desk there is my Resume.  <a href="https://github.com/nijam001/workspace/blob/main/resume_ALNIJAM.pdf">Check it out!<a>`,
     exit: `That's all for my 2D portfolio. Thank you`,
-    shelf: `This is where I store all my projects`
+    shelf: `This is bookshelf where I store all my projects. Checkout my <a href="https://github.com/nijam001">Github</a> account!`
 };
